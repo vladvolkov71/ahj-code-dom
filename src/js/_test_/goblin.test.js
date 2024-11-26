@@ -37,7 +37,7 @@ describe("Goblin", () => {
     const spySetInterval = jest.spyOn(global, "setInterval");
     goblin.changePosition();
     expect(spySetInterval).toHaveBeenCalledTimes(1);
-    jest.advanceTimersByTime(1000);
+    jest.advanceTimersByTime(10000);
     return Promise.resolve().then(() => {
       expect(document.querySelectorAll(".goblin").length).toBe(1);
       spySetInterval.mockRestore();

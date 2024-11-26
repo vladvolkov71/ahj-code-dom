@@ -1,6 +1,6 @@
 dist
 doc
-idea/
+.idea
 
 # Logs
 logs

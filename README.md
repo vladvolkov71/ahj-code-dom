@@ -1,5 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/96c8n1lgof0g4xtd?svg=true)](https://ci.appveyor.com/project/vladvolkov71/ahj-code-dom)
-[Сcылка на GitHub Pages](https://ludiamen.github.io/11-ahj-code-dom/)
+
+[Сcылка на GitHub Pages](https://vladvolkov71.github.io/ahj-code-dom/)
 
 Правила сдачи задания:
 
